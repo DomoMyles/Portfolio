@@ -1,0 +1,46 @@
+<doctype! html>
+<head>
+<title> Your Name</title>
+<link rel="stylesheet" type="text/css" href="myfirstsitestyle.css">
+
+
+</head>
+<body>
+
+
+<h1> Test Header</h1?
+<br>
+<b> Hello </b> world
+
+
+<h2>Another Test Header</h2>
+
+
+<p>
+My first reletive link to my <a href="page2.html"> Second page </a></p>
+<img scr = "bumbleFlower400.jpg" alt+"photo of lower with bumble bee" />
+
+
+<!--img scr is for image source, if you do not have an image in the folder it will not display correctly, as we
+learned last week. -->
+
+
+<p></p>
+My first absolute image
+<br>
+
+
+<imgscr="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/2000px-Ne
+w_York_Giants_logo.svg.png"
+alt="photo of giants logo" height="300, Width="400"/>
+<br>
+<p></p>
+<br>
+
+
+<span class = "note"> The CSS Style "Note"</span>
+
+
+
+</body>
+</html>
